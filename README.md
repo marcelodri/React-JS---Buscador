@@ -3,5 +3,5 @@ Un buscador de Peliculas con React JS
 
 Esta App de hizo con React Js, consumiedo la API de OMDB. 
 
-Solo de consume y devuelve un listado con las peliculas con el texto que le ingresamos. 
+Se consume la API y devuelve un listado con las peliculas que contangan en el nombre el texto que buscamos. 
 
